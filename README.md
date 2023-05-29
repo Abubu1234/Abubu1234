@@ -12,8 +12,7 @@
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on HTML, CSS and JavaScript projects
 
-###
-Things I have worked on 
+## Things I have worked on 
 * [Digital Resume](https://github.com/Abubu1234/ABDSAL022_FTC2301_Group-Naeem_Abdud-DayaanSalie_ITW09)
 * [Interactive Book Site](https://github.com/Abubu1234/ABDSAL022_FTC2301_Group-Naeem_Abdud-DayaanSalie_IWA19_Capstone)
 
