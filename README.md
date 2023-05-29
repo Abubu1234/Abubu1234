@@ -12,6 +12,11 @@
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on HTML, CSS and JavaScript projects
 
+###
+Things I have worked on 
+* [Digital Resume](https://github.com/Abubu1234/ABDSAL022_FTC2301_Group-Naeem_Abdud-DayaanSalie_ITW09)
+* [Interactive Book Site](https://github.com/Abubu1234/ABDSAL022_FTC2301_Group-Naeem_Abdud-DayaanSalie_IWA19_Capstone)
+
 <a href="https://www.twitch.tv/abubu123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/abubu123?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
