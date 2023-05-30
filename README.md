@@ -4,7 +4,7 @@
 ![](https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883)
 ## I am a Junior Software Developer
 --------------------------
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abubu1234)](https://github.com/anuraghazra/github-readme-stats)
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [Abubu1234](http://https://github.com/Abubu1234)
 * ✉️  You can contact me at [abduddayaansalie@gmail.com](mailto:abduddayaansalie@gmail.com)
